@@ -1,2 +1,4 @@
 Код и презентация для онлайн-вебинара на Youtube-канале loftblog.
-Ссылка на вебинар: https://www.youtube.com/watch?v=QkfUqb2XFRw&pbjreload=10
+
+Вебинар: https://www.youtube.com/watch?v=QkfUqb2XFRw&pbjreload=10
+Презентация: https://olbol.github.io/Yandex.Map_for_webinar/presentation/
